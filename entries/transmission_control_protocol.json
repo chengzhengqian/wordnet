@@ -1,0 +1,1 @@
+{"word": "transmission control protocol", "meanings": [{"pos": "n", "definition": "a protocol developed for the internet to get data from one network device to another", "synonyms": ["TCP"], "examples": ["TCP uses a retransmission strategy to insure that data will not be lost in transmission"]}]}
